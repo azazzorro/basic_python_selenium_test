@@ -16,4 +16,6 @@ assert "Test Automation" in driver.title
 
 assert "Test 1 Automation" in driver.title
 
+assert "Test 2 Automation" in driver.title
+
 driver.quit()
